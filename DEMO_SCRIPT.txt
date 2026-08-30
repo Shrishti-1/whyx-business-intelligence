@@ -1,0 +1,25 @@
+WHYX Demo Script — 2 to 3 minutes
+
+0:00–0:20
+WHYX closes the gap between a KPI movement and a defensible business decision. It asks whether a change is meaningful, what explains it, and what action is justified.
+
+0:20–0:55
+Show Revenue decline — West India as Executive. Point out the KPI cards, the −14% West India movement and the expected −3% to +3% range. Explain that the movement is materially outside the expected range.
+
+0:55–1:20
+Show competing hypotheses. Inventory shortage leads at 78%, while competitor pricing, churn and seasonality remain lower. Point out that the scores are deterministic PoC evidence scores computed from the CSVs, not LLM probabilities, and that counter-evidence plus lineage are visible. Marketing conversion is used as a clearly labelled market-pressure proxy.
+
+1:20–1:45
+Switch Persona to Regional Manager while keeping the same scenario. Explain the key distinction: the Executive receives a strategic decision; the Regional Manager receives an operational view scoped to West India, including category-level inventory/stockout priorities and a 48-hour monitoring loop. Point out the RBAC entitlement in the sidebar.
+
+1:45–2:05
+Show the human feedback controls. Explain that a business user can accept/reject the leading driver and that this becomes a governance/calibration signal rather than changing quantitative truth.
+
+2:05–2:25
+Switch to Low confidence — conflicting evidence. Show 43%, 41%, 38%. Explain that no hypothesis clears the 65% threshold, so WHYX abstains and proposes the next-best investigation. Switch persona to show the different operational narrative.
+
+2:25–2:40
+Show New KPI — sparse history. Explain that with only 11 days of history, WHYX avoids making an unreliable anomaly claim.
+
+2:40–2:55
+Open KPI Semantic Contract, Confidence methodology, RBAC / Entitlement and LLM vs non-LLM processing. Point out runtime telemetry: 0 model calls / 0 LLM tokens / $0 cost in this deterministic PoC. Finish with: Numbers are deterministic; narratives are generative.
