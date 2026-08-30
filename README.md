@@ -1,4 +1,4 @@
-# WHYX — Business Intelligence AI
+# WHYX: Business Intelligence AI
 
 > **From KPI → Cause → Decision**
 
@@ -10,7 +10,7 @@ Dashboards tell leaders **what changed**, but the reasoning from KPI movement to
 
 1. Is the movement meaningful?
 2. What explains it?
-3. What should we do — and how sure are we?
+3. What should we do, and how sure are we?
 
 A core design principle is **abstention**: if evidence is insufficient or contradictory, WHYX does not guess.
 
