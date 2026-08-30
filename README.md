@@ -36,6 +36,16 @@ A core design principle is **abstention**: if evidence is insufficient or contra
 - Explicit LLM vs non-LLM separation
 - Runtime telemetry including latency, model calls, token usage and estimated cost
 
+## Submission Links:
+
+### Final Presentation
+https://drive.google.com/file/d/1UhKc3JGCWT8ed7NNEimnGjqhRac3Fd6c/view?usp=sharing
+
+### Prototype Demo Video
+https://drive.google.com/file/d/1PPo1-ZrLJifZV2wQ9XknCq30G5ooyQY6/view?usp=sharing
+
+---
+
 ## Solution architecture
 
 ```text
